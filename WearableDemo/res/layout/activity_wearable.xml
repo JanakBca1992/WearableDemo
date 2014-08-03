@@ -1,0 +1,9 @@
+<android.support.wearable.view.WatchViewStub xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/in.dhuma1981.wearabledemo"
+    android:id="@+id/watch_view_stub"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:rectLayout="@layout/layout_rect"
+    app:roundLayout="@layout/layout_round" >
+
+</android.support.wearable.view.WatchViewStub>
